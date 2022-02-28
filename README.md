@@ -1,24 +1,35 @@
-# README
+# Stamping Life
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### サイトの概要
+自身の夢や目標に対してどれだけの時間を使えたかを"打刻”することで見える化するサイト。
+また、違うユーザーからアドバイスをもらえる。
 
-Things you may want to cover:
+### サイトのテーマ
+自分の決めたことに対して時間を管理し打刻する
 
-* Ruby version
+### テーマを選んだ理由
+勉強をしていても、仕事をしていても何かしらで”打刻”はするものだと思います。
+ただ、人によってはそんなものなくても、勉強に打ち込めるし、努力はできると思います。
 
-* System dependencies
+自分はできなかったです。
 
-* Configuration
+でも何か目に見えてわかるスイッチがあればできる人もいる気がします。
 
-* Database creation
+また、自分が決めた目標に対して打刻できて、一日どれだけその事に打ち込めたのか。月にどれだけ打ち込めたのか。これらを、時間として目で見ることで何か気付きがあるかもしれない。
+逆に、時間がもったいないなぁ。と思っているような事があれば、このアプリケーションでどれだけの時間を使っているかも確認ができる。
 
-* Database initialization
+このアプリケーションを使い、何かの目標に対して”やる気スイッチ”を押せるようなサイトを作りたいと思いこのテーマにしました。
 
-* How to run the test suite
+### ターゲットユーザー
+目標はあるが、いまいち”スイッチ”が入らない人
 
-* Services (job queues, cache servers, search engines, etc.)
+### 主な利用シーン
+何かに打ち込もうと思った時に、このサイトを使って打刻する事で、一日や一ヶ月の取り組めた時間を見えるようにする。
 
-* Deployment instructions
+### 設計書
 
-* ...
+### チャレンジ要素一覧
+
+### 開発環境
+
+### 使用素材
