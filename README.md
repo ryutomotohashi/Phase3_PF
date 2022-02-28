@@ -40,5 +40,5 @@
 
 ### 使用素材
 写真等まだ決まってませんが、フリー素材使用予定
-ピンタレスト: https://www.pinterest.jp/
-写真AC : https://www.photo-ac.com/main/search?q=%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C&srt=dlrank
+- ピンタレスト: https://www.pinterest.jp/
+- 写真AC : https://www.photo-ac.com/main/search?q=%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C&srt=dlrank
